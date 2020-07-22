@@ -1,6 +1,3 @@
-# for support join here [TorrentLeech-Gdrive](https://telegram.dog/torrentleechgdrivesupport)
-# working example group [Leech Here](https://telegram.dog/torrentleechgdrive)
-
 # Telegram Torrent Leecher 🔥🤖
 
 A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
@@ -237,7 +234,7 @@ sudo docker run TorrentLeech-Gdrive
 
 
 ## Credits, and Thanks to
-* [GautamKumar(me)](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
+* [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdrive) 
 * [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code😚
 * [Rclone Team](https://rclone.org) for theirs awesome tool☁️
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
